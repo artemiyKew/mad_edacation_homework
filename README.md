@@ -1,1 +1,1 @@
-# mad_edacation_homework
+A simple command-line application.
